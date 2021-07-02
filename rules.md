@@ -58,3 +58,41 @@ While we endeavour to protect the privacy of our users as much as possible, we c
 ![Discord Content Policy](images/yourcontent.png)
 
 
+**Bonjour/Hi! Welcome to the McGill Discord!**
+Please take the time to read these before participating in the server. Violations of our rules may result in warnings, kicks, or bans based on the severity and frequency of your violations, and the mods’ own discretion. This list covers most cases, but we will let you know if your behavior violates the spirit of these rules.
+
+━━━━━━━━━━━━━━━━━━
+🏛 RULES
+━━━━━━━━━━━━━━━━━━
+
+
+**Rule 1. Respect each other**
+Respect each other. Do not say things with the intention of hurting each other, and if someone tells you that your behaviour is making them uncomfortable, then stop. This includes but is not limited to slurs, hate speech, and racist, sexist, or homophobic remarks.
+This includes respecting the Moderators - if they ask you to do something, it is for a reason.
+
+
+**Rule 2. No harassment**
+Do not harass other users. Do not release private information of other people (doxxing). If you doxx another user unintentionally, we will delete it and you may be penalized. If you doxx another user with the intention of doing harm, you will be banned immediately.
+If you are uncomfortable with another user's behaviour in the server or in DMs, please message the mods so we can intervene. Your concerns will be kept confidential among the moderators.
+
+
+**Rule 3. Trolling**
+Banter is allowed from users who contribute to the Discord. However, users showing a pattern of trolling/provocation will not be tolerated. It’s not about intent either, be mindful of others in general - see rule 1.
+
+
+**Rule 4. NSFW/NSFL**
+No NSFW images (Not safe for work) or NSFL images or text (Not safe for life - anything gruesome or repellent to a reasonable person).
+
+
+**Rule 5. Spam/Self-bots**
+Don't spam (links, messages, etc). Advertising is generally not allowed, though contributing users can always check with the mods to plug their events, etc. The use of self-bots has also been disallowed, be it to send automatic reactions or perform other actions. Auto-reacts are spammy and interrupt the flow of conversation.
+
+
+**Rule 6. Proper channel use**
+Read the name of the channel and its description. Drifting off-topic is tolerated but do try to keep discussion relevant to that channel. Anything else can go in #lobby or #verified_general. Bots commands are restricted to the #bots channel, **memes** to #meme_parade_deux-mille-vingt-et-un and Spotify invites to #music. Do not post these outside of their respective channels.
+
+
+The rules of this server are licensed under a CC BY-NC-SA 4.0. For more info, see https://creativecommons.org/licenses/by-nc-sa/4.0/. If you want to re-use these rules for your own server, please ask! (we’ll probably say yes)
+
+
+if you'd like to invite someone to the server, either point them to our subreddit sidebar or send them this link: https://discord.gg/kdPkqJd
