@@ -12,3 +12,6 @@ Note that this is written in *Discord*'s flavor of Markdown, with support for un
 
 ### get_verified.md
 Just like for rules, this file contains the message posted to the `#get_verified` channel, to encourage members of the McGill community to verify their status.
+
+## License
+Unless otherwise noted, the contents of this repo are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
