@@ -38,21 +38,21 @@ __SSMU Drivesafe__ 514-398-8040 will drive you home *for free* Thurs-Sat 23:00-0
 ━━━━━━━━━━━━━━━━━━
 Please consult these resources if you need them. We try to be a supportive server but we are not professionals and cannot assume liability for any advice given.
 __keep.meSAFE__ - free, confidential, 24/7 professional counselling service. Download the MySSP app and chat/call for same-day or appointment-based support.
-__Student Wellness Hub__ https://www.mcgill.ca/wellness-hub/ 514-398-6017 - your first stop for health and wellness resources at McGill.
-__Nightline__ http://nightline.ssmu.ca/ 514-398-6246 - referral service available over the phone daily 18h–03h. Nightline also has an online Chatline.
-__Peer Support Centre__ https://psc.ssmu.ca/about-us/ - McGill students trained as peer supporters, available over Zoom for active listening, 11am-5pm on weekdays.
+__Student Wellness Hub__ <https://www.mcgill.ca/wellness-hub/> 514-398-6017 - your first stop for health and wellness resources at McGill.
+__Nightline__ <http://nightline.ssmu.ca/> 514-398-6246 - referral service available over the phone daily 18h–03h. Nightline also has an online Chatline.
+__Peer Support Centre__ <https://psc.ssmu.ca/about-us/> - McGill students trained as peer supporters, available over Zoom for active listening, 11am-5pm on weekdays.
 __McGill Counseling__ 514-398-3601 (downtown), 514-398-7992 (Mac campus) - offers crisis drop-in, workshops, and intake if you need any other assistance.
-__McGill Psychiatric Services__ https://mcgill.ca/psychiatric-services 514-398-6019 has safety appointments M-F 11h-13h offered on a 1st-come, 1st served basis.
-__Eating Disorders__ https://ssmu.ca/resources/eating-disorders/ - resources, advocacy, and peer support groups for McGill students facing eating disorders and/or disordered eating.
-__SACOMSS__ https://www.sacomss.org/wp/ - SSMU's Sexual Assault Centre offers a variety of support services for those who have experienced sexual assault, including drop-in and phone counseling.
-__OSVRSE__ https://www.mcgill.ca/osvrse/ is the McGill Office for Sexual Violence Response, Support and Education. Response advisor reachable at 514-398-4486.
+__McGill Psychiatric Services__ <https://mcgill.ca/psychiatric-services> 514-398-6019 has safety appointments M-F 11h-13h offered on a 1st-come, 1st served basis.
+__Eating Disorders__ <https://ssmu.ca/resources/eating-disorders/> - resources, advocacy, and peer support groups for McGill students facing eating disorders and/or disordered eating.
+__SACOMSS__ <https://www.sacomss.org/wp/> - SSMU's Sexual Assault Centre offers a variety of support services for those who have experienced sexual assault, including drop-in and phone counseling.
+__OSVRSE__ <https://www.mcgill.ca/osvrse/> is the McGill Office for Sexual Violence Response, Support and Education. Response advisor reachable at 514-398-4486.
 
 
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
 ⚖ **LEGAL RESOURCES**
 ━━━━━━━━━━━━━━━━━━
-__Legal Information Clinic__ https://licm.ca/ is a free student-run legal information service covering residential lease, family law, employment law, civil procedure and McGill's internal policies.
+__Legal Information Clinic__ <https://licm.ca/> is a free student-run legal information service covering residential lease, family law, employment law, civil procedure and McGill's internal policies.
 
 
 #NEWMSG
@@ -107,7 +107,7 @@ Don't spam (links, messages, etc). Advertising is generally not allowed, though 
 Read the name of the channel and its description. Drifting off-topic is tolerated but do try to keep discussion relevant to that channel. Anything else can go in #lobby or #verified_general. Bots commands are restricted to the #bots channel, **memes** to #meme_parade_deux-mille-vingt-et-un and Spotify invites to #music. Do not post these outside of their respective channels.
 
 
-The rules of this server are licensed under a CC BY-NC-SA 4.0. For more info, see https://creativecommons.org/licenses/by-nc-sa/4.0/. If you want to re-use these rules for your own server, please ask! (we’ll probably say yes)
+The rules of this server are licensed under a CC BY-NC-SA 4.0. For more info, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>. If you want to re-use these rules for your own server, please ask! (we’ll probably say yes)
 
 
-if you'd like to invite someone to the server, either point them to our subreddit sidebar or send them this link: https://discord.gg/kdPkqJd
+if you'd like to invite someone to the server, either point them to our subreddit sidebar or send them this link: <https://discord.gg/kdPkqJd>
