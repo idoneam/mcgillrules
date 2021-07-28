@@ -4,6 +4,7 @@
 Open Access and Bots channels are open to every Discord user.
 McGill-Only channels are restricted to verified McGill students only. Message a @Discord Moderator to be verified as a @ McGillian and have access to these channels. Additionally, an irl channel is accessible to verified McGill users who attend a meetup.
 
+
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🏷 **ROLES**
@@ -21,6 +22,7 @@ To view a list of assignable roles, go to the #bots channel and type `?iam`. The
 
 To un-assign a role, use the `?iamn [role]` command.
 
+
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🚑 **SAFETY RESOURCES**
@@ -28,6 +30,7 @@ To un-assign a role, use the `?iamn [role]` command.
 __911 for all emergencies__ (also dial 514-398-3000 on downtown campus or 514-398-7777 at Mac campus for Security Services so 1st-responders can reach your location)
 __SSMU Walksafe__ 514-398-2498 will walk you home from anywhere on the island of MTL 21:00-00:00 Sun-Thurs & 21:00-03:00 Fri-Sat
 __SSMU Drivesafe__ 514-398-8040 will drive you home *for free* Thurs-Sat 23:00-03:00. They're a service to help you get *home* safely, not a taxi service.
+
 
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
@@ -44,11 +47,13 @@ __Eating Disorders__ https://ssmu.ca/resources/eating-disorders/ - resources, ad
 __SACOMSS__ https://www.sacomss.org/wp/ - SSMU's Sexual Assault Centre offers a variety of support services for those who have experienced sexual assault, including drop-in and phone counseling.
 __OSVRSE__ https://www.mcgill.ca/osvrse/ is the McGill Office for Sexual Violence Response, Support and Education. Response advisor reachable at 514-398-4486.
 
+
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
 ⚖ **LEGAL RESOURCES**
 ━━━━━━━━━━━━━━━━━━
 __Legal Information Clinic__ https://licm.ca/ is a free student-run legal information service covering residential lease, family law, employment law, civil procedure and McGill's internal policies.
+
 
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
@@ -63,34 +68,41 @@ While we endeavour to protect the privacy of our users as much as possible, we c
 **Bonjour/Hi! Welcome to the McGill Discord!**
 Please take the time to read these before participating in the server. Violations of our rules may result in warnings, kicks, or bans based on the severity and frequency of your violations, and the mods’ own discretion. This list covers most cases, but we will let you know if your behavior violates the spirit of these rules.
 
+
 #NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🏛 RULES
 ━━━━━━━━━━━━━━━━━━
 
 
+#NEWMSG
 **Rule 1. Respect each other**
 Respect each other. Do not say things with the intention of hurting each other, and if someone tells you that your behaviour is making them uncomfortable, then stop. This includes but is not limited to slurs, hate speech, and racist, sexist, or homophobic remarks.
 This includes respecting the Moderators - if they ask you to do something, it is for a reason.
 
 
+#NEWMSG
 **Rule 2. No harassment**
 Do not harass other users. Do not release private information of other people (doxxing). If you doxx another user unintentionally, we will delete it and you may be penalized. If you doxx another user with the intention of doing harm, you will be banned immediately.
 If you are uncomfortable with another user's behaviour in the server or in DMs, please message the mods so we can intervene. Your concerns will be kept confidential among the moderators.
 
 
+#NEWMSG
 **Rule 3. Trolling**
 Banter is allowed from users who contribute to the Discord. However, users showing a pattern of trolling/provocation will not be tolerated. It’s not about intent either, be mindful of others in general - see rule 1.
 
 
+#NEWMSG
 **Rule 4. NSFW/NSFL**
 No NSFW images (Not safe for work) or NSFL images or text (Not safe for life - anything gruesome or repellent to a reasonable person).
 
 
+#NEWMSG
 **Rule 5. Spam/Self-bots**
 Don't spam (links, messages, etc). Advertising is generally not allowed, though contributing users can always check with the mods to plug their events, etc. The use of self-bots has also been disallowed, be it to send automatic reactions or perform other actions. Auto-reacts are spammy and interrupt the flow of conversation.
 
 
+#NEWMSG
 **Rule 6. Proper channel use**
 Read the name of the channel and its description. Drifting off-topic is tolerated but do try to keep discussion relevant to that channel. Anything else can go in #lobby or #verified_general. Bots commands are restricted to the #bots channel, **memes** to #meme_parade_deux-mille-vingt-et-un and Spotify invites to #music. Do not post these outside of their respective channels.
 
