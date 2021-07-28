@@ -4,7 +4,7 @@
 Open Access and Bots channels are open to every Discord user.
 McGill-Only channels are restricted to verified McGill students only. Message a @Discord Moderator to be verified as a @ McGillian and have access to these channels. Additionally, an irl channel is accessible to verified McGill users who attend a meetup.
 
-
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🏷 **ROLES**
 ━━━━━━━━━━━━━━━━━━
@@ -21,7 +21,7 @@ To view a list of assignable roles, go to the #bots channel and type `?iam`. The
 
 To un-assign a role, use the `?iamn [role]` command.
 
-
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🚑 **SAFETY RESOURCES**
 ━━━━━━━━━━━━━━━━━━
@@ -29,7 +29,7 @@ __911 for all emergencies__ (also dial 514-398-3000 on downtown campus or 514-39
 __SSMU Walksafe__ 514-398-2498 will walk you home from anywhere on the island of MTL 21:00-00:00 Sun-Thurs & 21:00-03:00 Fri-Sat
 __SSMU Drivesafe__ 514-398-8040 will drive you home *for free* Thurs-Sat 23:00-03:00. They're a service to help you get *home* safely, not a taxi service.
 
-
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 👩‍⚕️ **HEALTH RESOURCES**
 ━━━━━━━━━━━━━━━━━━
@@ -44,11 +44,13 @@ __Eating Disorders__ https://ssmu.ca/resources/eating-disorders/ - resources, ad
 __SACOMSS__ https://www.sacomss.org/wp/ - SSMU's Sexual Assault Centre offers a variety of support services for those who have experienced sexual assault, including drop-in and phone counseling.
 __OSVRSE__ https://www.mcgill.ca/osvrse/ is the McGill Office for Sexual Violence Response, Support and Education. Response advisor reachable at 514-398-4486.
 
-
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 ⚖ **LEGAL RESOURCES**
 ━━━━━━━━━━━━━━━━━━
 __Legal Information Clinic__ https://licm.ca/ is a free student-run legal information service covering residential lease, family law, employment law, civil procedure and McGill's internal policies.
+
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🤫 **PRIVACY**
 ━━━━━━━━━━━━━━━━━━
@@ -61,6 +63,7 @@ While we endeavour to protect the privacy of our users as much as possible, we c
 **Bonjour/Hi! Welcome to the McGill Discord!**
 Please take the time to read these before participating in the server. Violations of our rules may result in warnings, kicks, or bans based on the severity and frequency of your violations, and the mods’ own discretion. This list covers most cases, but we will let you know if your behavior violates the spirit of these rules.
 
+#NEWMSG
 ━━━━━━━━━━━━━━━━━━
 🏛 RULES
 ━━━━━━━━━━━━━━━━━━
