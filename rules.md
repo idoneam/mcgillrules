@@ -14,11 +14,11 @@ McGill-Only channels are restricted to verified McGill students only. Message a 
 @ McGillian = Verified McGill students.
 Additional roles can be also be used to notify all of the people who are interested in a certain activity or subject. Message or ping a @Discord Moderator to have a role added such as your major.
 @ irl = McGillians who attended at least one meetup or met a mod IRL
-@ stm_alertee = for real-time STM status on discord, just type `.iam stm_alertee` to get the role and get access to #stm_alerts
+@ stm_alertee = for real-time STM status on discord, just type `.iam stm_alertee` to get the role and get access to #CHANNEL(stm_alerts)
 
 We have several user-assignable roles available for users to identify their pronouns, year, fields of study, and interests.
 
-To view a list of assignable roles, go to the #bots channel and type `?iam`. There are several categories of roles: `pronouns`, `fields`, `faculties`, `years`, and `generics`. You can view all roles within a specific category with e.g. `?iam pronouns`, and then assign a specific role with `?iam [Pronoun/Pronouns]`.
+To view a list of assignable roles, go to the #CHANNEL(bots) channel and type `?iam`. There are several categories of roles: `pronouns`, `fields`, `faculties`, `years`, and `generics`. You can view all roles within a specific category with e.g. `?iam pronouns`, and then assign a specific role with `?iam [Pronoun/Pronouns]`.
 
 To un-assign a role, use the `?iamn [role]` command.
 
@@ -104,7 +104,7 @@ Don't spam (links, messages, etc). Advertising is generally not allowed, though 
 
 #NEWMSG
 **Rule 6. Proper channel use**
-Read the name of the channel and its description. Drifting off-topic is tolerated but do try to keep discussion relevant to that channel. Anything else can go in #lobby or #verified_general. Bots commands are restricted to the #bots channel, **memes** to #meme_parade_deux-mille-vingt-et-un and Spotify invites to #music. Do not post these outside of their respective channels.
+Read the name of the channel and its description. Drifting off-topic is tolerated but do try to keep discussion relevant to that channel. Anything else can go in #CHANNEL(lobby) or #CHANNEL(verified_general). Bots commands are restricted to the #CHANNEL(bots) channel, **memes** to #CHANNEL(meme_parade_deux-mille-vingt-et-un) and Spotify invites to #CHANNEL(music). Do not post these outside of their respective channels.
 
 
 The rules of this server are licensed under a CC BY-NC-SA 4.0. For more info, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>. If you want to re-use these rules for your own server, please ask! (we’ll probably say yes)
