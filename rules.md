@@ -2,7 +2,7 @@
 💬 **CHANNELS**
 ━━━━━━━━━━━━━━━━━━
 Open Access and Bots channels are open to every Discord user.
-McGill-Only channels are restricted to verified McGill students only. Message a @Discord Moderator to be verified as a @ McGillian and have access to these channels. Additionally, an irl channel is accessible to verified McGill users who attend a meetup.
+McGill-Only channels are restricted to verified McGill students only. Message a #ROLE(Discord Moderator) to be verified as a @ McGillian and have access to these channels. Additionally, an irl channel is accessible to verified McGill users who attend a meetup.
 
 
 #NEWMSG
@@ -12,7 +12,7 @@ McGill-Only channels are restricted to verified McGill students only. Message a 
 @ Discord Moderator = Moderators of this Discord. Their rule is law!
 @ Reddit Moderator = They are the actual reddit Moderators who moderate /r/mcgill.
 @ McGillian = Verified McGill students.
-Additional roles can be also be used to notify all of the people who are interested in a certain activity or subject. Message or ping a @Discord Moderator to have a role added such as your major.
+Additional roles can be also be used to notify all of the people who are interested in a certain activity or subject. Message or ping a #ROLE(Discord Moderator) to have a role added such as your major.
 @ irl = McGillians who attended at least one meetup or met a mod IRL
 @ stm_alertee = for real-time STM status on discord, just type `.iam stm_alertee` to get the role and get access to #CHANNEL(stm_alerts)
 
