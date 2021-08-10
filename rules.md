@@ -62,7 +62,7 @@ __Legal Information Clinic__ <https://licm.ca/> is a free student-run legal info
 While we endeavour to protect the privacy of our users as much as possible, we cannot guarantee it. Therefore, be mindful about the information you share in this server, as we cannot reliably control who sees it. Discord as a platform stores posted images indefinitely, with public access to the URL, so be mindful of the images you post. Furthermore, even if you delete something, someone could always have screencapped it.
 
 
-![Discord Content Policy](images/yourcontent.png)
+#IMAGE(https://github.com/idoneam/mcgillrules/blob/master/images/yourcontent.png)
 
 
 **Bonjour/Hi! Welcome to the McGill Discord!**
